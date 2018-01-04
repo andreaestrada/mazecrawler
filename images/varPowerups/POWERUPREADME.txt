@@ -1,0 +1,1 @@
+Base image for ghosts: http://3.bp.blogspot.com/-N0gowA1VdQ0/TpXDTKXd2vI/AAAAAAAAAMI/oM5AjIYf-B4/s320/img001.jpg
